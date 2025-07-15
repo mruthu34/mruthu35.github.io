@@ -1,0 +1,13 @@
+ .bg-blend-section {
+  background-image: url('https://gusteausrestaurant.weebly.com/uploads/5/0/7/1/50711945/5628625_orig.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-blend-mode: multiply;
+  background-color: rgba(0, 0, 0, 0.5); /* semi-transparent black */
+  height: 400px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
